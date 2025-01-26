@@ -1,0 +1,1 @@
+The .cs file contains the C# code which will generate the transition matrix for the UK monopoly board. The board has been indexed from 0-39 with 0 being GO and 39 being Mayfair.
